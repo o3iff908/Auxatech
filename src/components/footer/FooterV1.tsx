@@ -27,12 +27,12 @@ const FooterV1 = ({ sectionClass }: DataType) => {
                                             Travel World House, Level 7, 17 Jones St, NSW, 2060
                                         </p>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <h4>Saudi Arabia</h4>
                                         <p>
                                             Sheikh Mohammed bin salah, #234 B - Downtown - Dubai
                                         </p>
-                                    </li>
+                                    </li> */}
                                 </ul>
                                 <NewsletterV2 />
                             </div>

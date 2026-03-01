@@ -24,12 +24,12 @@ const FooterV3 = () => {
                                                 Travel World House, Level 7, 17 Jones St, NSW, 2060
                                             </p>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <h4>Dubai</h4>
                                             <p>
                                                 Sheikh Mohammed bin Salah, #234 B - Downtown - Dubai
                                             </p>
-                                        </li>
+                                        </li> */}
                                     </ul>
                                 </div>
                                 <div className="col-lg-5 offset-lg-1 footer-item">
