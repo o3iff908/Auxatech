@@ -24,7 +24,7 @@ const FooterV2 = ({ sectionClass }: DataType) => {
                                     <li>
                                         <h4>United Kingdom</h4>
                                         <p>
-                                            Travel World House, Level 7, 17 Jones St, NSW, 2060
+                                            CIS Tower, Miller St, Manchester M4 4AH, United Kingdom
                                         </p>
                                     </li>
                                     {/* <li>

@@ -22,9 +22,9 @@ const FooterV4 = ({ sectionClass }: DataType) => {
                                 </div>
                                 <ul className="address-list">
                                     <li>
-                                        <h4>Australia</h4>
+                                        <h4>United Kingdom</h4>
                                         <p>
-                                            Travel World House, Level 7, 17 Jones St, NSW, 2060
+                                            CIS Tower, Miller St, Manchester M4 4AH, United Kingdom
                                         </p>
                                     </li>
                                     {/* <li>
